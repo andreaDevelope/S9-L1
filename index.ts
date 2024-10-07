@@ -72,3 +72,6 @@ console.log(user._404())
 
 user.setName('Tamma')
 console.log(user.getName())
+
+
+
